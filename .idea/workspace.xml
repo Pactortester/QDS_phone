@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33978315-3983-4fe2-8309-54a1be3bf852" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cases/bqywtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/cases/test_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/astunparse/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/astunparse/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/astunparse/printer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/astunparse/unparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/colorama-0.4.0.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/colorama-0.4.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/colorama-0.4.0.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/colorama-0.4.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/colorama-0.4.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/colorama-0.4.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/colorama-0.4.0.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/colorama-0.4.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/colorama/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/colorama/ansi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/colorama/ansitowin32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/colorama/initialise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/colorama/win32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/colorama/winterm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/example/example/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/example/example/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/example/out/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/example/out/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/example/out/test_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/example/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/example/tests/test_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/py_backwards_astunparse-1.5.0.post3-py3.5.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/py_backwards_astunparse-1.5.0.post3-py3.5.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/py_backwards_astunparse-1.5.0.post3-py3.5.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/py_backwards_astunparse-1.5.0.post3-py3.5.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/py_backwards_astunparse-1.5.0.post3-py3.5.egg-info/not-zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/py_backwards_astunparse-1.5.0.post3-py3.5.egg-info/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/py_backwards_astunparse-1.5.0.post3-py3.5.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/pycodestyle-2.4.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/pycodestyle-2.4.0.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/pycodestyle-2.4.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/pycodestyle-2.4.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/pycodestyle-2.4.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/pycodestyle-2.4.0.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/pycodestyle-2.4.0.dist-info/namespace_packages.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/pycodestyle-2.4.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/pyee-5.0.0.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/pyee-5.0.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/pyee-5.0.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/pyee-5.0.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/pyee-5.0.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/pyee-5.0.0.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/pyee-5.0.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/six-1.11.0.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/six-1.11.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/six-1.11.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/six-1.11.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/six-1.11.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/six-1.11.0.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/six-1.11.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/tqdm-4.28.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/tqdm-4.28.1.dist-info/LICENCE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/tqdm-4.28.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/tqdm-4.28.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/tqdm/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/tqdm/_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/typed_ast/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/typed_ast/ast27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/typed_ast/ast3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/typed_ast/conversions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets-7.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets-7.0.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets-7.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets-7.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets-7.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets-7.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets-7.0.dist-info/zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets/compatibility.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets/extensions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets/extensions/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets/extensions/permessage_deflate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets/framing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets/handshake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets/headers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets/http.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets/protocol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets/py35/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets/py35/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets/py35/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets/speedups.cp35-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets/uri.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/websockets/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/wheel-0.32.2.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/wheel-0.32.2.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/wheel-0.32.2.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/wheel-0.32.2.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/wheel-0.32.2.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/wheel-0.32.2.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/wheel-0.32.2.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/wheel/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/wheel/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/wheel/bdist_wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/wheel/cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/wheel/cli/convert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/wheel/cli/install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/wheel/cli/pack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/wheel/cli/unpack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/wheel/metadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/wheel/pep425tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/wheel/pkginfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/wheel/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium_scary/venv/Lib/site-packages/wheel/wheelfile.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cases/bmkstest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="e#206#217#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cases/znzztest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="182" />
+              <folding>
+                <element signature="e#205#218#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/mytestcase.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="e#15#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/random.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18992">
+              <caret line="1187" column="21" selection-start-line="1187" selection-start-column="21" selection-end-line="1187" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cases/fmzltest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3936">
+              <caret line="248" selection-start-line="248" selection-end-line="248" />
+              <folding>
+                <element signature="e#205#216#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cases/bqywtest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+              <folding>
+                <element signature="e#206#217#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cases/test_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="126" column="38" lean-forward="true" selection-start-line="126" selection-start-column="38" selection-end-line="126" selection-end-column="38" />
+              <folding>
+                <element signature="e#362#395#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myRunner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="592">
+              <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+              <folding>
+                <element signature="e#206#260#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/unittest/case.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18864">
+              <caret line="1192" selection-start-line="1192" selection-end-line="1192" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>driver</find>
+      <find>com.dream.ipm:id/tv_order_pay_total_price_bottom</find>
+      <find>¥</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>self.driver</replace>
+      <replace>￥</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/globalparam.py" />
+        <option value="$PROJECT_DIR$/config/config.ini" />
+        <option value="$PROJECT_DIR$/cases/test.py" />
+        <option value="$PROJECT_DIR$/cases/A_Login.py" />
+        <option value="$PROJECT_DIR$/cases/dbwytest.py" />
+        <option value="$PROJECT_DIR$/cases/znzztest.py" />
+        <option value="$PROJECT_DIR$/utils/mytestcase.py" />
+        <option value="$PROJECT_DIR$/cases/bmkstest.py" />
+        <option value="$PROJECT_DIR$/cases/hwgstest.py" />
+        <option value="$PROJECT_DIR$/cases/fmzltest.py" />
+        <option value="$PROJECT_DIR$/cases/bqywtest.py" />
+        <option value="$PROJECT_DIR$/cases/custom_launcher.py" />
+        <option value="$PROJECT_DIR$/myRunner.py" />
+        <option value="$PROJECT_DIR$/cases/test_1.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="QDS_phone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QDS_phone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QDS_phone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QDS_phone" type="462c0819:PsiDirectoryNode" />
+              <item name="cases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QDS_phone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QDS_phone" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QDS_phone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QDS_phone" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QDS_phone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QDS_phone" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test_1">
+    <configuration name="Guarantee_registration" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="QDS_phone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../airtestCase/Guarantee_registration.air" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../airtestCase/Guarantee_registration.air/Guarantee_registration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="QDS_phone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cases/test_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for bmkstest.Nanny.test_nanny" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="QDS_phone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;bmkstest.Nanny.test_nanny&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in custom_launcher.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="QDS_phone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/cases/custom_launcher.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in myRunner.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="QDS_phone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/myRunner.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Guarantee_registration" />
+      <item itemvalue="Python.test_1" />
+      <item itemvalue="Python tests.Unittests in myRunner.py" />
+      <item itemvalue="Python tests.Unittests in custom_launcher.py" />
+      <item itemvalue="Python tests.Unittests for bmkstest.Nanny.test_nanny" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_1" />
+        <item itemvalue="Python tests.Unittests for bmkstest.Nanny.test_nanny" />
+        <item itemvalue="Python tests.Unittests in custom_launcher.py" />
+        <item itemvalue="Python tests.Unittests in myRunner.py" />
+        <item itemvalue="Python.Guarantee_registration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33978315-3983-4fe2-8309-54a1be3bf852" name="Default Changelist" comment="" />
+      <created>1543307938866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543307938866</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_fmzltest_Patent_test_invention_patent_bz_2 - 2018.11.29 at 17h 32m 55s.xml">
+      <configuration name="Unittests for fmzltest.Patent.test_invention_patent_bz_2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_fmzltest_Patent_test_invention_patent_bz_2 - 2018.11.29 at 17h 33m 45s.xml">
+      <configuration name="Unittests for fmzltest.Patent.test_invention_patent_bz_2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_fmzltest_Patent_test_invention_patent_bz_2 - 2018.11.29 at 17h 35m 43s.xml">
+      <configuration name="Unittests for fmzltest.Patent.test_invention_patent_bz_2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_fmzltest_Patent_test_invention_patent_bz_2 - 2018.11.29 at 17h 36m 46s.xml">
+      <configuration name="Unittests for fmzltest.Patent.test_invention_patent_bz_2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_myRunner_py - 2018.11.30 at 17h 13m 06s.xml">
+      <configuration name="Unittests in myRunner.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_myRunner_py - 2018.12.03 at 15h 14m 46s.xml">
+      <configuration name="Unittests in myRunner.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_custom_launcher_py - 2018.12.03 at 15h 28m 20s.xml">
+      <configuration name="Unittests in custom_launcher.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_custom_launcher_py - 2018.12.03 at 15h 28m 43s.xml">
+      <configuration name="Unittests in custom_launcher.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_custom_launcher_py - 2018.12.03 at 15h 34m 29s.xml">
+      <configuration name="Unittests in custom_launcher.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_bmkstest_Nanny_test_nanny - 2018.12.04 at 16h 04m 47s.xml">
+      <configuration name="Unittests for bmkstest.Nanny.test_nanny" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="DB Browser" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49947312" visible="true" weight="0.21908894" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23235613" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50052685" side_tool="true" weight="0.267101" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/appium/webdriver/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="638" column="8" selection-start-line="638" selection-start-column="8" selection-end-line="638" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/readconfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/log.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/globalparam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/screenshort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/test.py" />
+    <entry file="file://$PROJECT_DIR$/cases/A_Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/selenium/webdriver/remote/remote_connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="373" selection-start-line="373" selection-end-line="373" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-11-28.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="-183" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-11-27.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/appium/webdriver/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="534" column="11" selection-start-line="534" selection-start-column="11" selection-end-line="534" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/dbwytest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="37" column="139" lean-forward="true" selection-start-line="37" selection-start-column="96" selection-end-line="37" selection-end-column="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/2018-11-28_18-50-30_test_overseas.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/2018-11-28_18-41-08_test_intelligence.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/2018-11-28_18-37-56_test_intelligence.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/2018-11-28_18-27-31_test_intelligence.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/2018-11-27_18-52-16_test_login.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/2018-11-28_10-01-35_test_login.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/2018-11-28_14-58-05_test_nanny.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/2018-11-28_11-38-06_test_nanny.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/2018-11-28_18-47-34_test_overseas.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/2018-11-29_10-03-31_test_invention_patent_bd_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/2018-11-29_09-55-32_test_invention_patent_bd_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/2018-11-29_10-07-21_test_invention_patent_bd_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/2018-11-29_16-56-17_test_invention_patent_db_3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="359" selection-start-line="359" selection-end-line="359" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/airtest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../airtestCase/ss.air/ss.py" />
+    <entry file="file://$PROJECT_DIR$/../airtestCase/Guarantee_registration.air/Guarantee_registration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/970885877/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="5200" column="8" selection-start-line="5200" selection-start-column="8" selection-end-line="5200" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/unittest/suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="162" selection-start-line="162" selection-end-line="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/hwgstest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="59" column="141" selection-start-line="59" selection-start-column="141" selection-end-line="59" selection-end-column="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/airtest/cli/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/custom_launcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/pywinauto/findwindows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1392" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/bmkstest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#206#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/znzztest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="182" />
+          <folding>
+            <element signature="e#205#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/mytestcase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18992">
+          <caret line="1187" column="21" selection-start-line="1187" selection-start-column="21" selection-end-line="1187" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/fmzltest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3936">
+          <caret line="248" selection-start-line="248" selection-end-line="248" />
+          <folding>
+            <element signature="e#205#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/bqywtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="e#206#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+          <folding>
+            <element signature="e#206#260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18864">
+          <caret line="1192" selection-start-line="1192" selection-end-line="1192" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/test_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="126" column="38" lean-forward="true" selection-start-line="126" selection-start-column="38" selection-end-line="126" selection-end-column="38" />
+          <folding>
+            <element signature="e#362#395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
