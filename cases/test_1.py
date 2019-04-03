@@ -15,6 +15,7 @@ Date: 2016-10-10 14:30
 Author: johnny
 Home:http://blog.csdn.net/z_johnny
 '''
+from imp import reload
 
 from pywinauto import application
 from pykeyboard import PyKeyboard
@@ -156,3 +157,4 @@ if __name__ ==  "__main__":
         pass
     finally:
         app.close(window_name_new)
+
